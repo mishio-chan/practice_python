@@ -1,3 +1,4 @@
 print('practice')
 print('twice')
-print('thrid')
+for i in range(10):
+    print(2*i)
