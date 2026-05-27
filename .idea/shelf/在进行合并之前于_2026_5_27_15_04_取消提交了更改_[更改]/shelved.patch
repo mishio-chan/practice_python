@@ -1,0 +1,303 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1779865466024)
++++ b/.idea/vcs.xml	(date 1779865466024)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .venv/pyvenv.cfg
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.venv/pyvenv.cfg b/.venv/pyvenv.cfg
+new file mode 100644
+--- /dev/null	(date 1779865466036)
++++ b/.venv/pyvenv.cfg	(date 1779865466036)
+@@ -0,0 +1,11 @@
++home = C:\Users\zhang\AppData\Local\Python\pythoncore-3.14-64
++implementation = CPython
++version_info = 3.14.5.final.0
++version = 3.14.5
++executable = C:\Users\zhang\AppData\Local\Python\pythoncore-3.14-64\python.exe
++command = C:\Users\zhang\AppData\Local\Python\pythoncore-3.14-64\python.exe -m virtualenv D:\practice project\.venv
++virtualenv = 20.38.0
++include-system-site-packages = false
++base-prefix = C:\Users\zhang\AppData\Local\Python\pythoncore-3.14-64
++base-exec-prefix = C:\Users\zhang\AppData\Local\Python\pythoncore-3.14-64
++base-executable = C:\Users\zhang\AppData\Local\Python\pythoncore-3.14-64\python.exe
+Index: .idea/practice project.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/practice project.iml b/.idea/practice project.iml
+new file mode 100644
+--- /dev/null	(date 1779865466024)
++++ b/.idea/practice project.iml	(date 1779865466024)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/.venv" />
++    </content>
++    <orderEntry type="jdk" jdkName="Python 3.14 (practice project)" jdkType="Python SDK" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+new file mode 100644
+--- /dev/null	(date 1779865466022)
++++ b/.idea/inspectionProfiles/profiles_settings.xml	(date 1779865466022)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1779865466023)
++++ b/.idea/modules.xml	(date 1779865466023)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/practice project.iml" filepath="$PROJECT_DIR$/.idea/practice project.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1779865466025)
++++ b/.idea/workspace.xml	(date 1779865466025)
+@@ -0,0 +1,197 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ChangeListManager">
++    <list default="true" id="38408f68-a9a6-4a4c-bd68-67bd7ffe5682" name="更改" comment="branch 3rd">
++      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/practice project.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.venv/Scripts/venvlauncher.exe" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Python Script" />
++      </list>
++    </option>
++  </component>
++  <component name="Git.Settings">
++    <excluded-from-favorite>
++      <branch-storage>
++        <map>
++          <entry type="LOCAL">
++            <value>
++              <list>
++                <branch-info repo="$PROJECT_DIR$" source="main" />
++              </list>
++            </value>
++          </entry>
++        </map>
++      </branch-storage>
++    </excluded-from-favorite>
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "lastFilter": {
++    "state": "OPEN",
++    "assignee": "mishio-chan"
++  }
++}]]></component>
++  <component name="GithubDefaultAccount">
++    <option name="defaultAccountId" value="777fcd03-694f-4c4e-8290-cbcc956ffef4" />
++  </component>
++  <component name="GithubPullRequestsUISettings"><![CDATA[{
++  "selectedUrlAndAccountId": {
++    "url": "https://github.com/mishio-chan/practice_python.git",
++    "accountId": "777fcd03-694f-4c4e-8290-cbcc956ffef4"
++  }
++}]]></component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 1,
++  &quot;fromUser&quot;: false
++}</component>
++  <component name="ProjectId" id="3EHv2SeAkdA164o9HVMMudEkWQQ" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "ModuleVcsDetector.initialDetectionPerformed": "true",
++    "Python.demo.executor": "Run",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
++    "RunOnceActivity.git.unshallow": "true",
++    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
++    "codeWithMe.voiceChat.enabledByDefault": "false",
++    "git-widget-placeholder": "branch-1",
++    "last_opened_file_path": "D:/practice project",
++    "nodejs_package_manager_path": "npm",
++    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
++    "vue.rearranger.settings.migration": "true"
++  }
++}]]></component>
++  <component name="SharedIndexes">
++    <attachedChunks>
++      <set>
++        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
++      </set>
++    </attachedChunks>
++  </component>
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="默认任务">
++      <changelist id="38408f68-a9a6-4a4c-bd68-67bd7ffe5682" name="更改" comment="" />
++      <created>1779848101295</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1779848101295</updated>
++      <workItem from="1779848102329" duration="4805000" />
++      <workItem from="1779854077132" duration="3739000" />
++    </task>
++    <task id="LOCAL-00001" summary="demo">
++      <option name="closed" value="true" />
++      <created>1779848234007</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1779848234007</updated>
++    </task>
++    <task id="LOCAL-00002" summary="2nd commit">
++      <option name="closed" value="true" />
++      <created>1779848298109</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1779848298109</updated>
++    </task>
++    <task id="LOCAL-00003" summary="3rd commit">
++      <option name="closed" value="true" />
++      <created>1779861872921</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1779861872921</updated>
++    </task>
++    <task id="LOCAL-00004" summary="branch 3rd">
++      <option name="closed" value="true" />
++      <created>1779863843166</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1779863843166</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="RECENT_FILTERS">
++      <map>
++        <entry key="User">
++          <value>
++            <list>
++              <RecentGroup>
++                <option name="FILTER_VALUES">
++                  <option value="*" />
++                </option>
++              </RecentGroup>
++            </list>
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="branch-1" />
++                      </list>
++                    </value>
++                  </entry>
++                  <entry key="user">
++                    <value>
++                      <list>
++                        <option value="*" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="demo" />
++    <MESSAGE value="2nd commit" />
++    <MESSAGE value="3rd commit" />
++    <MESSAGE value="branch 3rd" />
++    <option name="LAST_COMMIT_MESSAGE" value="branch 3rd" />
++  </component>
++  <component name="com.intellij.coverage.CoverageDataManagerImpl">
++    <SUITE FILE_PATH="coverage/practice_project$demo.coverage" NAME="demo 覆盖结果" MODIFIED="1779848268129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
++  </component>
++</project>
+\ No newline at end of file
